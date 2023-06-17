@@ -15,5 +15,157 @@
     <description>Multi-Tenant veDAO Launchpad</description>
     <source url="https://forum.alchemix.fi/public/">Alchemix</source>
   </item>
+ <item>
+    <title>TEMPORARY BRIDGING WORKAROUND</title>
+    <link>https://forum.alchemix.fi/public/d/417-temporary-bridging-workaround</link>
+    <guid isPermaLink="false">TEMPORARY BRIDGING WORKAROUND417-temporary-bridging-workaround</guid>
+    <pubDate>2023-05-26T17:57:28+00:00</pubDate>
+    <description>TEMPORARY BRIDGING WORKAROUND</description>
+    <source url="https://forum.alchemix.fi/public/">Alchemix</source>
+  </item>
+ <item>
+    <title>[AIP-91] Alchemix quick frontend tool grant</title>
+    <link>https://forum.alchemix.fi/public/d/416-aip-91-alchemix-quick-frontend-tool-grant</link>
+    <guid isPermaLink="false">[AIP-91] Alchemix quick frontend tool grant416-aip-91-alchemix-quick-frontend-tool-grant</guid>
+    <pubDate>2023-05-19T15:10:48+00:00</pubDate>
+    <description>[AIP-91] Alchemix quick frontend tool grant</description>
+    <source url="https://forum.alchemix.fi/public/">Alchemix</source>
+  </item>
+ <item>
+    <title>Rating Alchemix’s maturity with DAOmeter</title>
+    <link>https://forum.alchemix.fi/public/d/415-rating-alchemixs-maturity-with-daometer</link>
+    <guid isPermaLink="false">Rating Alchemix’s maturity with DAOmeter415-rating-alchemixs-maturity-with-daometer</guid>
+    <pubDate>2023-05-19T12:58:56+00:00</pubDate>
+    <description>Rating Alchemix’s maturity with DAOmeter</description>
+    <source url="https://forum.alchemix.fi/public/">Alchemix</source>
+  </item>
+ <item>
+    <title>[AIP-90] Deploy Alchemix on Arbitrum</title>
+    <link>https://forum.alchemix.fi/public/d/414-aip-90-deploy-alchemix-on-arbitrum</link>
+    <guid isPermaLink="false">[AIP-90] Deploy Alchemix on Arbitrum414-aip-90-deploy-alchemix-on-arbitrum</guid>
+    <pubDate>2023-05-19T00:03:20+00:00</pubDate>
+    <description>[AIP-90] Deploy Alchemix on Arbitrum</description>
+    <source url="https://forum.alchemix.fi/public/">Alchemix</source>
+  </item>
+ <item>
+    <title>[AIP-89] Expand Vesper Vault Offerings</title>
+    <link>https://forum.alchemix.fi/public/d/413-aip-89-expand-vesper-vault-offerings</link>
+    <guid isPermaLink="false">[AIP-89] Expand Vesper Vault Offerings413-aip-89-expand-vesper-vault-offerings</guid>
+    <pubDate>2023-05-15T20:09:53+00:00</pubDate>
+    <description>[AIP-89] Expand Vesper Vault Offerings</description>
+    <source url="https://forum.alchemix.fi/public/">Alchemix</source>
+  </item>
+ <item>
+    <title>[RFC] Karma Delegate dashboard for Alchemix token holders</title>
+    <link>https://forum.alchemix.fi/public/d/412-rfc-karma-delegate-dashboard-for-alchemix-token-holders</link>
+    <guid isPermaLink="false">[RFC] Karma Delegate dashboard for Alchemix token holders412-rfc-karma-delegate-dashboard-for-alchemix-token-holders</guid>
+    <pubDate>2023-05-08T19:32:52+00:00</pubDate>
+    <description>[RFC] Karma Delegate dashboard for Alchemix token holders</description>
+    <source url="https://forum.alchemix.fi/public/">Alchemix</source>
+  </item>
+ <item>
+    <title>Messari Governance Alerts for Alchemix DAO</title>
+    <link>https://forum.alchemix.fi/public/d/411-messari-governance-alerts-for-alchemix-dao</link>
+    <guid isPermaLink="false">Messari Governance Alerts for Alchemix DAO411-messari-governance-alerts-for-alchemix-dao</guid>
+    <pubDate>2023-05-05T11:24:57+00:00</pubDate>
+    <description>Messari Governance Alerts for Alchemix DAO</description>
+    <source url="https://forum.alchemix.fi/public/">Alchemix</source>
+  </item>
+ <item>
+    <title>Operational Error on alUSD-FRAXBP Deposits</title>
+    <link>https://forum.alchemix.fi/public/d/410-operational-error-on-alusd-fraxbp-deposits</link>
+    <guid isPermaLink="false">Operational Error on alUSD-FRAXBP Deposits410-operational-error-on-alusd-fraxbp-deposits</guid>
+    <pubDate>2023-04-26T14:32:23+00:00</pubDate>
+    <description>Operational Error on alUSD-FRAXBP Deposits</description>
+    <source url="https://forum.alchemix.fi/public/">Alchemix</source>
+  </item>
+ <item>
+    <title>Is Alchemix Pointless for small investors?</title>
+    <link>https://forum.alchemix.fi/public/d/285-is-alchemix-pointless-for-small-investors</link>
+    <guid isPermaLink="false">Is Alchemix Pointless for small investors?285-is-alchemix-pointless-for-small-investors</guid>
+    <pubDate>2022-02-28T18:09:16+00:00</pubDate>
+    <description>Is Alchemix Pointless for small investors?</description>
+    <source url="https://forum.alchemix.fi/public/">Alchemix</source>
+  </item>
+ <item>
+    <title>Collateral withdrawal - alETH</title>
+    <link>https://forum.alchemix.fi/public/d/409-collateral-withdrawal-aleth</link>
+    <guid isPermaLink="false">Collateral withdrawal - alETH409-collateral-withdrawal-aleth</guid>
+    <pubDate>2023-04-12T10:04:54+00:00</pubDate>
+    <description>Collateral withdrawal - alETH</description>
+    <source url="https://forum.alchemix.fi/public/">Alchemix</source>
+  </item>
+ <item>
+    <title>[AIP-88] PancakeSwap trial and emissions allocation update</title>
+    <link>https://forum.alchemix.fi/public/d/407-aip-88-pancakeswap-trial-and-emissions-allocation-update</link>
+    <guid isPermaLink="false">[AIP-88] PancakeSwap trial and emissions allocation update407-aip-88-pancakeswap-trial-and-emissions-allocation-update</guid>
+    <pubDate>2023-04-06T13:29:41+00:00</pubDate>
+    <description>[AIP-88] PancakeSwap trial and emissions allocation update</description>
+    <source url="https://forum.alchemix.fi/public/">Alchemix</source>
+  </item>
+ <item>
+    <title>[AIP-87] Launch Alchemix-Premia options pools</title>
+    <link>https://forum.alchemix.fi/public/d/404-aip-87-launch-alchemix-premia-options-pools</link>
+    <guid isPermaLink="false">[AIP-87] Launch Alchemix-Premia options pools404-aip-87-launch-alchemix-premia-options-pools</guid>
+    <pubDate>2023-03-24T08:03:26+00:00</pubDate>
+    <description>[AIP-87] Launch Alchemix-Premia options pools</description>
+    <source url="https://forum.alchemix.fi/public/">Alchemix</source>
+  </item>
+ <item>
+    <title>[AIP-86 B] Expanding ETH2 LSD Caps</title>
+    <link>https://forum.alchemix.fi/public/d/403-aip-86-b-expanding-eth2-lsd-caps</link>
+    <guid isPermaLink="false">[AIP-86 B] Expanding ETH2 LSD Caps403-aip-86-b-expanding-eth2-lsd-caps</guid>
+    <pubDate>2023-03-15T09:24:37+00:00</pubDate>
+    <description>[AIP-86 B] Expanding ETH2 LSD Caps</description>
+    <source url="https://forum.alchemix.fi/public/">Alchemix</source>
+  </item>
+ <item>
+    <title>[AIP-86 A] Add frxETH Strategy for alETH Alchemist</title>
+    <link>https://forum.alchemix.fi/public/d/402-aip-86-a-add-frxeth-strategy-for-aleth-alchemist</link>
+    <guid isPermaLink="false">[AIP-86 A] Add frxETH Strategy for alETH Alchemist402-aip-86-a-add-frxeth-strategy-for-aleth-alchemist</guid>
+    <pubDate>2023-03-15T09:22:54+00:00</pubDate>
+    <description>[AIP-86 A] Add frxETH Strategy for alETH Alchemist</description>
+    <source url="https://forum.alchemix.fi/public/">Alchemix</source>
+  </item>
+ <item>
+    <title>[RFC] Alphaday Grant Proposal to build Community Dashboard</title>
+    <link>https://forum.alchemix.fi/public/d/396-rfc-alphaday-grant-proposal-to-build-community-dashboard</link>
+    <guid isPermaLink="false">[RFC] Alphaday Grant Proposal to build Community Dashboard396-rfc-alphaday-grant-proposal-to-build-community-dashboard</guid>
+    <pubDate>2023-02-06T13:07:44+00:00</pubDate>
+    <description>[RFC] Alphaday Grant Proposal to build Community Dashboard</description>
+    <source url="https://forum.alchemix.fi/public/">Alchemix</source>
+  </item>
+ <item>
+    <title>Alchemix Delegate Interest Form</title>
+    <link>https://forum.alchemix.fi/public/d/390-alchemix-delegate-interest-form</link>
+    <guid isPermaLink="false">Alchemix Delegate Interest Form390-alchemix-delegate-interest-form</guid>
+    <pubDate>2023-01-18T09:37:56+00:00</pubDate>
+    <description>Alchemix Delegate Interest Form</description>
+    <source url="https://forum.alchemix.fi/public/">Alchemix</source>
+  </item>
+ <item>
+    <title>[AIP-85] Discretionary spending for new Liquidity Pools</title>
+    <link>https://forum.alchemix.fi/public/d/401-aip-85-discretionary-spending-for-new-liquidity-pools</link>
+    <guid isPermaLink="false">[AIP-85] Discretionary spending for new Liquidity Pools401-aip-85-discretionary-spending-for-new-liquidity-pools</guid>
+    <pubDate>2023-02-23T11:34:30+00:00</pubDate>
+    <description>[AIP-85] Discretionary spending for new Liquidity Pools</description>
+    <source url="https://forum.alchemix.fi/public/">Alchemix</source>
+  </item>
+ <item>
+    <title>[AIP-78] Deploy funds in Blueberry</title>
+    <link>https://forum.alchemix.fi/public/d/388-aip-78-deploy-funds-in-blueberry</link>
+    <guid isPermaLink="false">[AIP-78] Deploy funds in Blueberry388-aip-78-deploy-funds-in-blueberry</guid>
+    <pubDate>2023-01-17T09:58:40+00:00</pubDate>
+    <description>[AIP-78] Deploy funds in Blueberry</description>
+    <source url="https://forum.alchemix.fi/public/">Alchemix</source>
+  </item>
+ <item>
+    <title>Convert alUSDC to USDC</title>
+    <link>https://forum.alchemix.fi/public/d/399-convert-alusdc-to-usdc</link>
+    <guid isPermaLink="false">Convert alUSDC to USDC399-convert-alusdc-to-usdc</guid>
+    <pubDate>2023-02-08T13:45:55+00:00</pubDate>
+    <description>Convert alUSDC to USDC</description>
+    <source url="https://forum.alchemix.fi/public/">Alchemix</source>
+  </item>
 </channel>
 </rss>
