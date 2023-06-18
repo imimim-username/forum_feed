@@ -8,6 +8,22 @@
   <copyright>2023 Alchemix</copyright>
   <description>Alchemix Forum</description>
   <item>
+    <title>[AIP-92] Alchemix L2 Bridging Update / Fantom Wind-Down</title>
+    <link>https://forum.alchemix.fi/public/d/420-aip-92-alchemix-l2-bridging-update-fantom-wind-down</link>
+    <guid isPermaLink="false">[AIP-92] Alchemix L2 Bridging Update / Fantom Wind-Down420-aip-92-alchemix-l2-bridging-update-fantom-wind-down</guid>
+    <pubDate>2023-06-18T15:36:22+00:00</pubDate>
+    <description>[AIP-92] Alchemix L2 Bridging Update / Fantom Wind-Down</description>
+    <source url="https://forum.alchemix.fi/public/">Alchemix</source>
+  </item>
+ <item>
+    <title>[Pre-AIP] Alchemix Analytics Alerts</title>
+    <link>https://forum.alchemix.fi/public/d/419-pre-aip-alchemix-analytics-alerts</link>
+    <guid isPermaLink="false">[Pre-AIP] Alchemix Analytics Alerts419-pre-aip-alchemix-analytics-alerts</guid>
+    <pubDate>2023-06-14T20:04:02+00:00</pubDate>
+    <description>[Pre-AIP] Alchemix Analytics Alerts</description>
+    <source url="https://forum.alchemix.fi/public/">Alchemix</source>
+  </item>
+ <item>
     <title>Multi-Tenant veDAO Launchpad</title>
     <link>https://forum.alchemix.fi/public/d/418-multi-tenant-vedao-launchpad</link>
     <guid isPermaLink="false">Multi-Tenant veDAO Launchpad418-multi-tenant-vedao-launchpad</guid>
@@ -149,22 +165,6 @@
     <guid isPermaLink="false">[AIP-85] Discretionary spending for new Liquidity Pools401-aip-85-discretionary-spending-for-new-liquidity-pools</guid>
     <pubDate>2023-02-23T11:34:30+00:00</pubDate>
     <description>[AIP-85] Discretionary spending for new Liquidity Pools</description>
-    <source url="https://forum.alchemix.fi/public/">Alchemix</source>
-  </item>
- <item>
-    <title>[AIP-78] Deploy funds in Blueberry</title>
-    <link>https://forum.alchemix.fi/public/d/388-aip-78-deploy-funds-in-blueberry</link>
-    <guid isPermaLink="false">[AIP-78] Deploy funds in Blueberry388-aip-78-deploy-funds-in-blueberry</guid>
-    <pubDate>2023-01-17T09:58:40+00:00</pubDate>
-    <description>[AIP-78] Deploy funds in Blueberry</description>
-    <source url="https://forum.alchemix.fi/public/">Alchemix</source>
-  </item>
- <item>
-    <title>Convert alUSDC to USDC</title>
-    <link>https://forum.alchemix.fi/public/d/399-convert-alusdc-to-usdc</link>
-    <guid isPermaLink="false">Convert alUSDC to USDC399-convert-alusdc-to-usdc</guid>
-    <pubDate>2023-02-08T13:45:55+00:00</pubDate>
-    <description>Convert alUSDC to USDC</description>
     <source url="https://forum.alchemix.fi/public/">Alchemix</source>
   </item>
 </channel>
