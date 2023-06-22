@@ -8,6 +8,14 @@
   <copyright>2023 Alchemix</copyright>
   <description>Alchemix Forum</description>
   <item>
+    <title>How to use gALCX?</title>
+    <link>https://forum.alchemix.fi/public/d/421-how-to-use-galcx</link>
+    <guid isPermaLink="false">How to use gALCX?421-how-to-use-galcx</guid>
+    <pubDate>2023-06-22T17:23:59+00:00</pubDate>
+    <description>How to use gALCX?</description>
+    <source url="https://forum.alchemix.fi/public/">Alchemix</source>
+  </item>
+ <item>
     <title>[Pre-AIP] Alchemix Analytics Alerts</title>
     <link>https://forum.alchemix.fi/public/d/419-pre-aip-alchemix-analytics-alerts</link>
     <guid isPermaLink="false">[Pre-AIP] Alchemix Analytics Alerts419-pre-aip-alchemix-analytics-alerts</guid>
@@ -157,14 +165,6 @@
     <guid isPermaLink="false">Alchemix Delegate Interest Form390-alchemix-delegate-interest-form</guid>
     <pubDate>2023-01-18T09:37:56+00:00</pubDate>
     <description>Alchemix Delegate Interest Form</description>
-    <source url="https://forum.alchemix.fi/public/">Alchemix</source>
-  </item>
- <item>
-    <title>[AIP-85] Discretionary spending for new Liquidity Pools</title>
-    <link>https://forum.alchemix.fi/public/d/401-aip-85-discretionary-spending-for-new-liquidity-pools</link>
-    <guid isPermaLink="false">[AIP-85] Discretionary spending for new Liquidity Pools401-aip-85-discretionary-spending-for-new-liquidity-pools</guid>
-    <pubDate>2023-02-23T11:34:30+00:00</pubDate>
-    <description>[AIP-85] Discretionary spending for new Liquidity Pools</description>
     <source url="https://forum.alchemix.fi/public/">Alchemix</source>
   </item>
 </channel>
